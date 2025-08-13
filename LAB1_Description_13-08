@@ -1,0 +1,14 @@
+2 Generic switches
+3 laptops 
+3 Desktops
+
+1 switch connected to 3 PCs
+1 switch connected to 3 Laptops 
+A connection among the 2 switches
+
+IP Addresses 
+PCs- 192.162.10.1 2 3
+Laptops- 192.162.11.1 2 3
+
+1 PDU from PCs to another PC- Successful
+1 PDU from PC to a laptop- Failed
